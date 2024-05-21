@@ -1,5 +1,3 @@
-# Qt_Calculator
-
 ### to run the calculator need to:
 
 #### clone repository:
